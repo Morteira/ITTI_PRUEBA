@@ -1,0 +1,19 @@
+.message {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .success {
+    background-color: green;
+    color: white;
+  }
+  
+  .error {
+    background-color: red;
+    color: white;
+  }
+  
+  .alternate {
+    background-color: yellow;
+  }
+  
